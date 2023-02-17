@@ -12,7 +12,7 @@ Martes
 1 - 2 Tiempo libre
 2 - 4 Clase Mecánica
 4 - 6 Tiempo libre
-6 - 9 Estudiar Probabilidad y Est
+6 - 9 Estudiar lab info 2
 
 Miércoles
 8 - 10 Clase Probabilidad y Est
@@ -21,16 +21,16 @@ Miércoles
 2 - 3 Tiempo libre
 3 - 4 Estudiar lab info 2
 4 - 6 Clase Inglés
-6 - 9 Estudiar lab info 2
+6 - 9 Estudiar Mecanica
 
 Jueves
 8 - 10 Clase Info 2
 10 - 11 Leer libro Calculo Vect
 11 - 12 Leer libro Mecánica
-12 - 2 Tiempo libre
+12 - 2 Estudiar mecanica
 2 - 4 Clase Mecánica
 4 - 6 Tiempo libre
-6 - 9 Estudiar Mecánica
+6 - 9 Estudiar lab info 2
 
 Viernes
 8 - 10 Clase Probabilidad y Est
